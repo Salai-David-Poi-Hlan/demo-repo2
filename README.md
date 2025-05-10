@@ -14,3 +14,7 @@ salaiadep3xfrc4tp5vhy4[k342[
 
 
 zxcrty
+
+
+#Local Development 
+1.Open Index.html in your browser.
